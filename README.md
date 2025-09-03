@@ -221,3 +221,26 @@ Mark 85 found in the list.
 
 ---
 
+# String Basics in Java | Data Structure Series
+
+This project demonstrates the **fundamental operations of Strings in Java**.  
+It is part of my **Data Structures in Java (Bangla Tutorial Series)**.  
+
+## 📌 Topics Covered
+- Declaring and initializing Strings
+- Concatenation (`concat`)
+- Length of a String (`length()`)
+- Accessing characters (`charAt()`)
+- Substring (`substring()`)
+- String comparison (`equals`, `equalsIgnoreCase`)
+- Searching (`contains`, `indexOf`, `lastIndexOf`)
+- Replacing (`replace`)
+- Converting case (`toUpperCase`, `toLowerCase`)
+- Trimming (`trim`)
+- Splitting (`split`)
+
+## 🚀 Run the Program
+```bash
+javac StringBasics.java
+java StringBasics
+
